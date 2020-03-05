@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="weixin-java-pay-demo:war">
+    <output-path>$PROJECT_DIR$/weixin-java-pay-demo-master/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>weixin-java-pay-demo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="weixin-java-pay-demo-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="weixin-java-pay-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
