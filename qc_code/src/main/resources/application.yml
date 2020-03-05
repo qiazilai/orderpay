@@ -1,0 +1,10 @@
+server:
+  port: 5678
+wxpay:
+  appid: "wx8a3fcf509313fd74"
+  mch_id: "1361137902"
+  notify_url: "http://192.168.1.4:5678/wxPayNotity"
+  trade_type: "NATIVE"
+  key: "367151c5fd0d50f1e34a68a802d6bbca"
+  pay_url: "https://api.mch.weixin.qq.com/pay/unifiedorder"
+
